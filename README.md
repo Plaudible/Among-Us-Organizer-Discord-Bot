@@ -15,6 +15,7 @@ As of now, it works as follows:
 3. Once roles are assigned, you start the game process with !breakout. This will:
 
     3a. Move all "Crewmembers" into individual calls (up to 8) to prevent communication and visibility.
+    
     3b. Move all "Imposters" into one call to communicate with each other.
 4. Once a body is found or a meeting is called, use !meeting to return everyone to the group.
 
