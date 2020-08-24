@@ -1,0 +1,14 @@
+{
+  "name": "among-us-bot",
+  "version": "1.0.0",
+  "description": "Among Us organizer bot",
+  "main": "bot.js",
+  "author": "Maxwell Bockmann / Plaudible",
+  "dependencies": {
+    "@discordjs/opus": "^0.3.2",
+    "discord.io": "github:woor/discord.io#gateway_v6",
+    "discord.js": "^12.3.1",
+    "ffmpeg-static": "^4.2.7",
+    "winston": "^3.3.3"
+  }
+}
