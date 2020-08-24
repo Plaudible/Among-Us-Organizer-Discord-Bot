@@ -1,5 +1,6 @@
 # Among-Us-Organizer-Discord-Bot
 ![Picture](https://i.imgur.com/hyOY9VN.png)
+
 This is a bot dedicated to my private server for organizing and hosting rounds of the social outlier game Among Us.
 
 As of now, IDs are custom made only for my server and don't have easy support outside - if you would like to demo,
