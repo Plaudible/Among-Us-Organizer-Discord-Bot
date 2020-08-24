@@ -27,3 +27,5 @@ As of now, it works as follows:
 **5.** Rinse and repeat, using !breakout and !meeting until game end.
 
 **6.** !end to move everyone back to original call.
+
+Made using Discord.js.
